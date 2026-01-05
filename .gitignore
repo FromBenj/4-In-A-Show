@@ -1,0 +1,5 @@
+.idea
+public/php/debug
+notes.md
+vendor/
+node_modules/

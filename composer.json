@@ -1,0 +1,7 @@
+{
+    "require": {
+        "twig/twig": "^3.22",
+        "symfony/routing": "^8.0",
+        "symfony/http-foundation": "^8.0"
+    }
+}
