@@ -1,6 +1,7 @@
 # 4 In A Show
 ___
-### _Another small project that makes me learn new stuff and already fries my brain  [in progress...]_
+### _Another small project that makes me learn new stuff and already fries my brain_  
+#### _[in progress...]_
 
 ### What it is
 
